@@ -1,4 +1,5 @@
 # RNA-Seq_WT_Smad4
 RNA seq data analysis of wild-type and Smad4 deficient CD8 T cells using RNA Seq data analysis pipelines. (DGE analysis using DESeq2 &amp; Pathway Analysis using PathfindR package in R programming language)
 
-![uploading]()
+![Rplot1_bubble_LM](https://github.com/user-attachments/assets/5ff6f657-9047-4980-aa5f-b8cf1dc10b47)
+
