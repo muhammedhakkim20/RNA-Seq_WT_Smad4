@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/RNA_Seq-WT_Smad4-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)
-# RNA-Seq_WT_Smad4
 # Effect of Smad4 on CD8 T-cell fate during Bacterial & Viral infection
 RNA seq data analysis of wild-type and Smad4 deficient CD8 T cells using RNA Seq data analysis pipelines. (DGE analysis using DESeq2 &amp; Pathway Analysis using PathfindR package in R programming language)
 
