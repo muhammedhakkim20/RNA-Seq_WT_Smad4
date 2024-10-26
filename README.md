@@ -105,6 +105,13 @@ Comparison: WT of LM vs. WT of FLU CD8 T cells
 ![GITHUB_pages-to-jpg-0006](https://github.com/user-attachments/assets/be8800d5-82bb-436a-9d4c-cad45607ba1e)
 
 # License
-![Static Badge](https://img.shields.io/badge/License-MIT-blue?link=https%3A%2F%2Fgithub.com%2Fmuhammedhakkim20%2FRNA-Seq_WT_Smad4%2Fblob%2Fmain%2FLICENSE)
 
+This project is licensed under the MIT License - see the LICENSE file for details.
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/muhammedhakkim20/RNA-Seq_WT_Smad4/blob/main/LICENSE)
+
+# Contact
+
+For any questions or issues, please contact
+
+[![Gmail](https://img.shields.io/badge/Muhammed_Hakkim_N-DB4437?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammedhakkim20@gmail.com) [![LinkedIn](https://img.shields.io/badge/Muhammed_Hakkim_N-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammedhakkimn/)
