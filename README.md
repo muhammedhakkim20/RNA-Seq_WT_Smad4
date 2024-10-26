@@ -111,4 +111,6 @@ genetic and epigenetic mechanisms shaping CD8 T cell responses to different type
 ![GITHUB_pages-to-jpg-0005](https://github.com/user-attachments/assets/f80e3f53-40c1-442e-8cfe-52d1840240a4)
 ![GITHUB_pages-to-jpg-0006](https://github.com/user-attachments/assets/be8800d5-82bb-436a-9d4c-cad45607ba1e)
 
+# LICENSE
 
+![License badge](https://github.com/muhammedhakkim20/RNA-Seq_WT_Smad4/blob/main/LICENSE)
