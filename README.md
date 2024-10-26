@@ -68,8 +68,6 @@ PEA:
 differentiation.
 
 Comparison: WT vs. SMAD4KO CD8 T cells
-Key Finding: TGF-beta pathway regulates, SMAD4 downregulated
-Effect: Impaired CD8 T cell differentiation, function, proliferation, and survival
 
 ![GITHUB_pages-to-jpg-0001](https://github.com/user-attachments/assets/6cc86e71-c55e-4c47-8ee7-ab862b9612d1)
 ![GITHUB_pages-to-jpg-0002](https://github.com/user-attachments/assets/a2ca6d18-0cda-4d0e-9590-367b838a3bd0)
@@ -86,8 +84,6 @@ PEA:
 ➢ Top pathways: TGF-beta signaling(high), B cell receptor signaling.
 
 Comparison: WT vs. SMAD4KO CD8 T cells
-Key Finding: TGF-beta pathway regulates, SMAD4 downregulated
-Effect: Weakened antiviral response, altered memory formation
 
 ![GITHUB_pages-to-jpg-0003](https://github.com/user-attachments/assets/eb10d8d9-06a7-4fca-8853-1f5583826327)
 ![GITHUB_pages-to-jpg-0004](https://github.com/user-attachments/assets/b37ad180-e0f8-499e-b8d9-d9631695965c)
@@ -104,9 +100,6 @@ PEA:
 Remodeling.
 
 Comparison: WT of LM vs. WT of FLU CD8 T cells
-Key Finding: Polycomb Repressive Complex regulates
-Effect: The regulatory role of the Polycomb repressive complex further highlights the distinct
-genetic and epigenetic mechanisms shaping CD8 T cell responses to different types of infections.
 
 ![GITHUB_pages-to-jpg-0005](https://github.com/user-attachments/assets/f80e3f53-40c1-442e-8cfe-52d1840240a4)
 ![GITHUB_pages-to-jpg-0006](https://github.com/user-attachments/assets/be8800d5-82bb-436a-9d4c-cad45607ba1e)
