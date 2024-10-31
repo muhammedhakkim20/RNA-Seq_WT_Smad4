@@ -35,7 +35,7 @@ Quality Analysis:
 Tools: FASTQC, Trimmomatic, Sickle.
 
 Read Alignment:
-Tool: RNA STAR.
+Tool: STAR.
 Mapped the reads to mm39 reference genome.
 
 Quantification:
